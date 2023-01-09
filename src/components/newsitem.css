@@ -1,0 +1,35 @@
+.articleImg
+{
+    border-radius: 1vw;
+    margin: 2%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 70%;
+    align-self: center;
+}
+.articleHeader
+{
+    margin: 2%;
+}
+.articleTitle
+{
+    text-decoration: none;
+    color: black;
+    font-size: 3vw;
+    text-align: center;
+}
+.articleDescription
+{
+    margin: 2%;
+}
+.addToFavorites
+{
+    align-self: flex-start;
+}
+.trash
+{
+    height: 4%;
+    width: 4%;
+    margin: 2%;
+    margin-top: 0%;
+}
